@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\sso_hack\sso_hack\obj\Debug\sso_hack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sso_hack\sso_hack\bin\Debug\sso_hack.dll
+C:\Users\Administrator\source\repos\sso_hack\sso_hack\bin\Debug\sso_hack.pdb
+C:\Users\Administrator\source\repos\sso_hack\sso_hack\obj\Debug\sso_hack.dll
+C:\Users\Administrator\source\repos\sso_hack\sso_hack\obj\Debug\sso_hack.pdb

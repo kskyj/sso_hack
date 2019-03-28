@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sso_hack", "sso_hack\sso_hack.csproj", "{CF8F9D9D-D04D-4D5F-812C-B6EFDE25E9CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpletest", "simpletest\simpletest.csproj", "{4F86B520-C7BB-4D6D-B56D-0E003DBD656F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadDLL", "LoadDLL\LoadDLL.csproj", "{A9356B1C-F3AB-47EB-B0FD-0D75BD6985B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8F9D9D-D04D-4D5F-812C-B6EFDE25E9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8F9D9D-D04D-4D5F-812C-B6EFDE25E9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8F9D9D-D04D-4D5F-812C-B6EFDE25E9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8F9D9D-D04D-4D5F-812C-B6EFDE25E9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F86B520-C7BB-4D6D-B56D-0E003DBD656F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F86B520-C7BB-4D6D-B56D-0E003DBD656F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F86B520-C7BB-4D6D-B56D-0E003DBD656F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F86B520-C7BB-4D6D-B56D-0E003DBD656F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9356B1C-F3AB-47EB-B0FD-0D75BD6985B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9356B1C-F3AB-47EB-B0FD-0D75BD6985B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9356B1C-F3AB-47EB-B0FD-0D75BD6985B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9356B1C-F3AB-47EB-B0FD-0D75BD6985B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD50FE1-FDE4-43DE-BD02-A53B10BDE08A}
+	EndGlobalSection
+EndGlobal

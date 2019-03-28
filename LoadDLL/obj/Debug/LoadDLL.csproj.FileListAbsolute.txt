@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\bin\Debug\LoadDLL.exe
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\bin\Debug\LoadDLL.pdb
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\bin\Debug\sso_hack.dll
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\bin\Debug\sso_hack.pdb
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\obj\Debug\LoadDLL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\obj\Debug\LoadDLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\obj\Debug\LoadDLL.csproj.CopyComplete
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\obj\Debug\LoadDLL.exe
+C:\Users\Administrator\source\repos\sso_hack\LoadDLL\obj\Debug\LoadDLL.pdb

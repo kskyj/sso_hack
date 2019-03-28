@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\sso_hack\simpletest\bin\Debug\simpletest.exe
+C:\Users\Administrator\source\repos\sso_hack\simpletest\bin\Debug\simpletest.pdb
+C:\Users\Administrator\source\repos\sso_hack\simpletest\obj\Debug\simpletest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sso_hack\simpletest\obj\Debug\simpletest.exe
+C:\Users\Administrator\source\repos\sso_hack\simpletest\obj\Debug\simpletest.pdb
